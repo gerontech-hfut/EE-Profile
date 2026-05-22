@@ -237,7 +237,7 @@
     "entity_id": "e_001_054",
     "elder_id": "001",
     "entity_type": "health",
-    "entity_name": "脑梗阻塞问题",
+    "entity_name": "脑梗阻塞",
     "entity_link_event": [
       "ev_001_049",
       "ev_001_050",

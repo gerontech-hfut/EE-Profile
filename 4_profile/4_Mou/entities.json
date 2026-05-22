@@ -3,7 +3,7 @@
     "entity_id": "e_005_001",
     "elder_id": "005",
     "entity_type": "education",
-    "entity_name": "小学求学",
+    "entity_name": "小学",
     "entity_link_event": [
       "ev_005_001",
       "ev_005_002"
@@ -13,7 +13,7 @@
     "entity_id": "e_005_002",
     "elder_id": "005",
     "entity_type": "education",
-    "entity_name": "初中求学",
+    "entity_name": "初中",
     "entity_link_event": [
       "ev_005_003"
     ]
@@ -35,7 +35,7 @@
     "entity_id": "e_005_004",
     "elder_id": "005",
     "entity_type": "education",
-    "entity_name": "高中求学",
+    "entity_name": "高中",
     "entity_link_event": [
       "ev_005_005"
     ]
@@ -44,7 +44,7 @@
     "entity_id": "e_005_005",
     "elder_id": "005",
     "entity_type": "education",
-    "entity_name": "安徽医科大学求学",
+    "entity_name": "大学",
     "entity_link_event": [
       "ev_005_006",
       "ev_005_007",
@@ -57,7 +57,7 @@
     "entity_id": "e_005_006",
     "elder_id": "005",
     "entity_type": "occupation",
-    "entity_name": "金寨乡村妇产科医生",
+    "entity_name": "妇产科医生",
     "entity_link_event": [
       "ev_005_011",
       "ev_005_012",
@@ -81,7 +81,7 @@
     "entity_id": "e_005_008",
     "elder_id": "005",
     "entity_type": "occupation",
-    "entity_name": "池州与合肥妇产科工作",
+    "entity_name": "妇产科工作",
     "entity_link_event": [
       "ev_005_018",
       "ev_005_021",
@@ -92,7 +92,7 @@
     "entity_id": "e_005_009",
     "elder_id": "005",
     "entity_type": "achievement",
-    "entity_name": "主任医生与临床教学",
+    "entity_name": "主任医生",
     "entity_link_event": [
       "ev_005_019",
       "ev_005_031",
@@ -103,7 +103,7 @@
     "entity_id": "e_005_010",
     "elder_id": "005",
     "entity_type": "health",
-    "entity_name": "老年性关节炎及腿脚不便",
+    "entity_name": "关节炎",
     "entity_link_event": [
       "ev_005_027"
     ]
@@ -112,7 +112,7 @@
     "entity_id": "e_005_011",
     "elder_id": "005",
     "entity_type": "interest",
-    "entity_name": "政治历史阅读与社会思考",
+    "entity_name": "政治历史",
     "entity_link_event": [
       "ev_005_028",
       "ev_005_029",
