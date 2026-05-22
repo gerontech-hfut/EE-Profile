@@ -1,0 +1,548 @@
+[
+  {
+    "event_id": "ev_004_001",
+    "event_person": "张爷爷",
+    "event_time": "1950年-1952年",
+    "event_time_step": "-631152000",
+    "event_location": "安徽省合肥市肥西县三河镇、合肥市柳木巷小学",
+    "event_action": "上小学并转学到柳木巷小学",
+    "event_summary": "张爷爷7岁在三河镇开始上小学，二年级后因父亲调动随家搬到合肥，并转入柳木巷小学继续读书。",
+    "event_link_narrative": [
+      "n_004_0002"
+    ],
+    "event_link_entity": "e_004_001",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_002",
+    "event_person": "张爷爷",
+    "event_time": "1954年",
+    "event_time_step": "-504921600",
+    "event_location": "安徽省合肥市南门小学",
+    "event_action": "转学到南门小学",
+    "event_summary": "小学四年级后，张爷爷又转学到合肥南门小学就读。",
+    "event_link_narrative": [
+      "n_004_0003"
+    ],
+    "event_link_entity": "e_004_001",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_003",
+    "event_person": "张爷爷",
+    "event_time": "1950年代中",
+    "event_time_step": "-473385600",
+    "event_location": "安徽省合肥市南门小学",
+    "event_action": "课余打乒乓球",
+    "event_summary": "在南门小学读书期间，张爷爷课余经常用石头做的乒乓球桌打球。",
+    "event_link_narrative": [
+      "n_004_0003"
+    ],
+    "event_link_entity": "e_004_002",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_004",
+    "event_person": "张爷爷",
+    "event_time": "1956年",
+    "event_time_step": "-441849600",
+    "event_location": "安徽省合肥市合肥七中",
+    "event_action": "考入合肥七中读初中",
+    "event_summary": "张爷爷通过考试考入合肥七中，在竞争较强的录取环境中开始初中学习。",
+    "event_link_narrative": [
+      "n_004_0005"
+    ],
+    "event_link_entity": "e_004_003",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_005",
+    "event_person": "张爷爷",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省合肥市合肥一中老校区（三孝口）",
+    "event_action": "进入合肥一中读高中",
+    "event_summary": "张爷爷高中进入合肥一中老校区就读。",
+    "event_link_narrative": [
+      "n_004_0006"
+    ],
+    "event_link_entity": "e_004_004",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_006",
+    "event_person": "张爷爷",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省合肥市合肥一中老校区（三孝口）",
+    "event_action": "选择医农班",
+    "event_summary": "张爷爷在合肥一中分班后选择医农班，这一选择受到父亲和家族从医背景影响。",
+    "event_link_narrative": [
+      "n_004_0006"
+    ],
+    "event_link_entity": "e_004_004",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_007",
+    "event_person": "张爷爷",
+    "event_time": "1960年代",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市合肥师范学校",
+    "event_action": "参加高考",
+    "event_summary": "1960年代，张爷爷在合肥师范学校考场参加7月份高考，并等待录取通知。",
+    "event_link_narrative": [
+      "n_004_0007"
+    ],
+    "event_link_entity": "e_004_005",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_008",
+    "event_person": "张爷爷",
+    "event_time": "1960年代",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "考入安徽医科大学并学习临床医学",
+    "event_summary": "张爷爷考入安徽医科大学，进入临床医学方向，系统学习解剖、生理、病理等多门课程。",
+    "event_link_narrative": [
+      "n_004_0008"
+    ],
+    "event_link_entity": "e_004_006",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_009",
+    "event_person": "张爷爷",
+    "event_time": "1960年代",
+    "event_time_step": "-315619200",
+    "event_location": "安徽医科大学",
+    "event_action": "参加大学体育活动",
+    "event_summary": "在安徽医科大学就读期间，张爷爷参加体育训练，擅长800米长跑，并进入排球队和足球队。",
+    "event_link_narrative": [
+      "n_004_0009"
+    ],
+    "event_link_entity": "e_004_007",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_010",
+    "event_person": "张爷爷",
+    "event_time": "1966年",
+    "event_time_step": "-126230400",
+    "event_location": "安徽医科大学",
+    "event_action": "因文化大革命停课并压缩学制",
+    "event_summary": "1966年文化大革命爆发后，安徽医科大学停课停招，张爷爷所在五年制学习被压缩为三年，最后一年实习也被取消。",
+    "event_link_narrative": [
+      "n_004_0010"
+    ],
+    "event_link_entity": "e_004_008",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_011",
+    "event_person": "张爷爷",
+    "event_time": "1960年代末",
+    "event_time_step": "-94694400",
+    "event_location": "安徽省合肥市安徽医科大学附属医院",
+    "event_action": "选择继续进修",
+    "event_summary": "大学学习受到特殊时期影响后，张爷爷和太太选择继续进修，以补足医学训练。",
+    "event_link_narrative": [
+      "n_004_0010"
+    ],
+    "event_link_entity": "e_004_008",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_012",
+    "event_person": "张爷爷",
+    "event_time": "1960年代",
+    "event_time_step": "-315619200",
+    "event_location": "安徽医科大学",
+    "event_action": "学习外科并在大学认识未来妻子",
+    "event_summary": "张爷爷在安徽医科大学学习外科方向，并在大学期间认识了后来从事妇产科的太太。",
+    "event_link_narrative": [
+      "n_004_0011"
+    ],
+    "event_link_entity": "e_004_006",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_013",
+    "event_person": "张爷爷",
+    "event_time": "1969年-1976年",
+    "event_time_step": "-94694400",
+    "event_location": "农村基层医院",
+    "event_action": "下放农村做全科医生",
+    "event_summary": "1969年至1976年，张爷爷婚后下放农村做全科医生，住在改造过的祠堂里并承担基层医疗任务。",
+    "event_link_narrative": [
+      "n_004_0012"
+    ],
+    "event_link_entity": "e_004_009",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_014",
+    "event_person": "张爷爷",
+    "event_time": "1969年-1976年",
+    "event_time_step": "-94694400",
+    "event_location": "农村基层医院",
+    "event_action": "诊治内外科疾病并实施手术",
+    "event_summary": "在农村行医期间，张爷爷什么病都看，内科、外科都承担，也需要为患者开刀做手术。",
+    "event_link_narrative": [
+      "n_004_0012"
+    ],
+    "event_link_entity": "e_004_009",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_015",
+    "event_person": "张爷爷",
+    "event_time": "1971年",
+    "event_time_step": "31536000",
+    "event_location": "安徽省合肥市安徽医科大学附属医院",
+    "event_action": "到安徽医科大学附属医院进修",
+    "event_summary": "张爷爷调往池州市人民医院之前，曾在安徽医科大学附属医院进修一年眼科，跟随老师查房、换药并担任手术助手。",
+    "event_link_narrative": [
+      "n_004_0013"
+    ],
+    "event_link_entity": "e_004_010",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_016",
+    "event_person": "张爷爷",
+    "event_time": "1971年",
+    "event_time_step": "31536000",
+    "event_location": "镇医院",
+    "event_action": "第一次主刀救治急诊疝气病人",
+    "event_summary": "1971年，张爷爷从安徽医科大学附属医院进修回来后，在镇医院完成第一次主刀手术，救治了一名急诊疝气病人。",
+    "event_link_narrative": [
+      "n_004_0013"
+    ],
+    "event_link_entity": "e_004_009",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_017",
+    "event_person": "张爷爷",
+    "event_time": "1969年-1976年",
+    "event_time_step": "-31536000",
+    "event_location": "农村医院",
+    "event_action": "下班后和同事打篮球",
+    "event_summary": "在医院工作期间，张爷爷晚上下班后常和同事一起打篮球，这是那几年难得的乐趣。",
+    "event_link_narrative": [
+      "n_004_0015"
+    ],
+    "event_link_entity": "e_004_011",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_018",
+    "event_person": "张爷爷",
+    "event_time": "1972年",
+    "event_time_step": "63072000",
+    "event_location": "安徽省合肥市",
+    "event_action": "结束进修并补完大学课程",
+    "event_summary": "1972年，张爷爷和太太结束医学进修，补完此前大学没有上的课程。",
+    "event_link_narrative": [
+      "n_004_0016"
+    ],
+    "event_link_entity": "e_004_008",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_019",
+    "event_person": "张爷爷",
+    "event_time": "1970年代",
+    "event_time_step": "157766400",
+    "event_location": "安徽省池州市人民医院",
+    "event_action": "调入池州市人民医院并专攻眼科",
+    "event_summary": "孩子出生后不久，张爷爷调到池州市人民医院工作，并从那时开始专攻眼科。",
+    "event_link_narrative": [
+      "n_004_0017"
+    ],
+    "event_link_entity": "e_004_012",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_020",
+    "event_person": "张爷爷",
+    "event_time": "1970年代-1980年代",
+    "event_time_step": "283996800",
+    "event_location": "安徽省池州市",
+    "event_action": "在池州从事眼科工作十几年",
+    "event_summary": "张爷爷在池州眼科工作十几年，持续积累眼科临床经验。",
+    "event_link_narrative": [
+      "n_004_0018"
+    ],
+    "event_link_entity": "e_004_012",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_021",
+    "event_person": "张爷爷",
+    "event_time": "1988年",
+    "event_time_step": "567993600",
+    "event_location": "安徽省立医院",
+    "event_action": "调到安徽省立医院任副主任医生",
+    "event_summary": "1988年，张爷爷被调到安徽省立医院，继续从事眼科工作并任副主任医生。",
+    "event_link_narrative": [
+      "n_004_0018"
+    ],
+    "event_link_entity": "e_004_012",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_022",
+    "event_person": "张爷爷",
+    "event_time": "1990年",
+    "event_time_step": "631152000",
+    "event_location": "安徽省立医院",
+    "event_action": "实施斜视矫正手术",
+    "event_summary": "1990年，张爷爷为一名自幼内斜视的小女孩成功实施斜视矫正手术，帮助她改善生活状态。",
+    "event_link_narrative": [
+      "n_004_0019"
+    ],
+    "event_link_entity": "e_004_013",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_023",
+    "event_person": "张爷爷",
+    "event_time": "1990年代",
+    "event_time_step": "631152000",
+    "event_location": "安徽省",
+    "event_action": "参与白内障复明工程",
+    "event_summary": "在安徽省立医院期间，张爷爷参与国家组织的白内障复明工程，带队下乡为贫困老人做白内障手术并安装人工晶体，高强度帮助患者恢复视力。",
+    "event_link_narrative": [
+      "n_004_0020"
+    ],
+    "event_link_entity": "e_004_014",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_024",
+    "event_person": "张爷爷",
+    "event_time": "1990年代",
+    "event_time_step": "631152000",
+    "event_location": "安徽省",
+    "event_action": "担任防盲指导中心主任并获奖",
+    "event_summary": "张爷爷担任安徽省防盲指导中心主任，负责全省防盲工作，并因成绩突出获得安徽省科技进步二等奖和省政府奖金。",
+    "event_link_narrative": [
+      "n_004_0021"
+    ],
+    "event_link_entity": "e_004_015",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_025",
+    "event_person": "张爷爷",
+    "event_time": "2003年",
+    "event_time_step": "1041379200",
+    "event_location": "安徽省立医院",
+    "event_action": "退休后返聘专家门诊",
+    "event_summary": "2003年张爷爷60岁正式退休，但仍被返聘至门诊，出知名专家门诊接诊白内障、青光眼、斜视、弱视等眼科疑难病例。",
+    "event_link_narrative": [
+      "n_004_0022"
+    ],
+    "event_link_entity": "e_004_016",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_026",
+    "event_person": "张爷爷",
+    "event_time": "2006年",
+    "event_time_step": "1136073600",
+    "event_location": "安徽省合肥市",
+    "event_action": "写书总结临床经验并出版专著",
+    "event_summary": "退休后，张爷爷开始撰写书籍，总结自己的临床经验，并陆续出版医学专著。",
+    "event_link_narrative": [
+      "n_004_0023"
+    ],
+    "event_link_entity": "e_004_017",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_027",
+    "event_person": "张爷爷",
+    "event_time": "2006年",
+    "event_time_step": "1136073600",
+    "event_location": "安徽省合肥市",
+    "event_action": "创办《实用防盲杂志》",
+    "event_summary": "2006年，张爷爷创办国家级正式刊物《实用防盲杂志》，担任第一任编辑部主任，并推动杂志逐步走上正轨。",
+    "event_link_narrative": [
+      "n_004_0023"
+    ],
+    "event_link_entity": "e_004_017",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_028",
+    "event_person": "张爷爷",
+    "event_time": "2022年起",
+    "event_time_step": "1640995200",
+    "event_location": "安徽省合肥市",
+    "event_action": "确诊早期肺癌并手术康复",
+    "event_summary": "2022年，张爷爷体检查出肺结节并确诊早期肺癌，接受手术治疗后恢复良好，三年多来康复情况稳定。",
+    "event_link_narrative": [
+      "n_004_0026"
+    ],
+    "event_link_entity": "e_004_018",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_029",
+    "event_person": "张爷爷",
+    "event_time": "2022年后",
+    "event_time_step": "1640995200",
+    "event_location": "安徽省合肥市",
+    "event_action": "看电视刷手机并走步锻炼",
+    "event_summary": "张爷爷现在日常生活简单，会看电视、刷抖音、小红书、今日头条等平台获取资讯，也会通过走步锻炼身体。",
+    "event_link_narrative": [
+      "n_004_0027"
+    ],
+    "event_link_entity": "e_004_019",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_030",
+    "event_person": "张爷爷",
+    "event_time": "1997年",
+    "event_time_step": "852076800",
+    "event_location": "也门孙营地区",
+    "event_action": "被派往南也门参加医疗援助",
+    "event_summary": "1997年，张爷爷被国家派往南也门孙营地区参加中国援外医疗队工作，当地环境干燥炎热、生活条件艰苦。",
+    "event_link_narrative": [
+      "n_004_0029"
+    ],
+    "event_link_entity": "e_004_020",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_031",
+    "event_person": "张爷爷",
+    "event_time": "1997年",
+    "event_time_step": "852076800",
+    "event_location": "也门当地医院",
+    "event_action": "担任安徽省医疗队队长并支援当地医院",
+    "event_summary": "1997年，张爷爷担任当批安徽省医疗队队长，带领十几名队员支援也门当地医院，为当地提供医疗服务。",
+    "event_link_narrative": [
+      "n_004_0030"
+    ],
+    "event_link_entity": "e_004_020",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_032",
+    "event_person": "张爷爷",
+    "event_time": "1997年",
+    "event_time_step": "852076800",
+    "event_location": "也门当地医院",
+    "event_action": "适应当地宗教和生活限制",
+    "event_summary": "援外期间，张爷爷尊重当地宗教规定，在不能饮酒、不能吃猪肉、娱乐匮乏等严格生活限制中坚持工作。",
+    "event_link_narrative": [
+      "n_004_0032"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_033",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "孙营地区",
+    "event_action": "连续驻点两年且中途不能回国",
+    "event_summary": "1997年至1999年，张爷爷在孙营地区连续援外工作两年，中间因任务安排紧凑和节省路费不能回国。",
+    "event_link_narrative": [
+      "n_004_0033"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_034",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "孙营地区医院",
+    "event_action": "驻医院并接受武装保护",
+    "event_summary": "张爷爷所在医疗队驻在孙营地区医院时，医院外有武装力量保护，反映出当地安全环境的特殊性。",
+    "event_link_narrative": [
+      "n_004_0033"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_035",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "南也门",
+    "event_action": "任期内未遭遇大战事",
+    "event_summary": "张爷爷认为自己援外任期内还算幸运，没有碰上大的战事。",
+    "event_link_narrative": [
+      "n_004_0034"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_036",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "法国舰艇",
+    "event_action": "战事紧张时紧急转移到法国舰艇",
+    "event_summary": "在一次战事紧张时，张爷爷所在的中国医生队伍只能紧急转移到法国舰艇上躲避。",
+    "event_link_narrative": [
+      "n_004_0035"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_037",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "南也门",
+    "event_action": "为当地高层提供医疗服务并提升援外影响",
+    "event_summary": "张爷爷所在医疗队在南也门影响很大，省长、总统等高层领导看病都会联系他们，也体现了中国医疗援助的重要影响力。",
+    "event_link_narrative": [
+      "n_004_0037"
+    ],
+    "event_link_entity": "e_004_022",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_038",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "南也门",
+    "event_action": "领取援外补贴并维持简朴生活",
+    "event_summary": "援外期间，张爷爷工资由原单位照发，国家另发部分美元补贴，生活虽然简朴但能够维持。",
+    "event_link_narrative": [
+      "n_004_0038"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  },
+  {
+    "event_id": "ev_004_039",
+    "event_person": "张爷爷",
+    "event_time": "1997年至1999年",
+    "event_time_step": "852076800",
+    "event_location": "也门",
+    "event_action": "同行因无法适应援外环境自杀去世",
+    "event_summary": "一位同行因无法适应援外期间孤独压抑的环境而自杀去世，遗体按当地风俗在也门安葬。",
+    "event_link_narrative": [
+      "n_004_0039"
+    ],
+    "event_link_entity": "e_004_021",
+    "elder_id": "004"
+  }
+]

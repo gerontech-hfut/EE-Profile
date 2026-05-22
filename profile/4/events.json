@@ -1,0 +1,450 @@
+[
+  {
+    "event_id": "ev_005_001",
+    "event_person": "牟奶奶",
+    "event_time": "1951年-1956年",
+    "event_time_step": "-599616000",
+    "event_location": "安徽省合肥市105医院附近至稻香村小学",
+    "event_action": "就读小学 / 步行往返小学",
+    "event_summary": "牟奶奶小时候在安徽省合肥市的稻香村小学读书。；牟奶奶小时候住在合肥105医院附近，每天步行很远到稻香村小学上学并步行回家。",
+    "event_link_narrative": [
+      "n_005_0001"
+    ],
+    "event_link_entity": "e_005_001",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_002",
+    "event_person": "牟奶奶",
+    "event_time": "1954年-1956年",
+    "event_time_step": "-504921600",
+    "event_location": "安徽省合肥市稻香村小学",
+    "event_action": "学习小学课程",
+    "event_summary": "牟奶奶在小学学习语文、数学、珠算，并在高年级开始学习自然、音乐和体育。",
+    "event_link_narrative": [
+      "n_005_0002"
+    ],
+    "event_link_entity": "e_005_001",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_003",
+    "event_person": "牟奶奶",
+    "event_time": "1956年-1959年",
+    "event_time_step": "-441849600",
+    "event_location": "安徽省合肥市合肥二中",
+    "event_action": "就读初中",
+    "event_summary": "牟奶奶初中就读于合肥二中，学习语文、算术、几何、代数、物理、化学、生物、历史和地理等课程。",
+    "event_link_narrative": [
+      "n_005_0003"
+    ],
+    "event_link_entity": "e_005_002",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_004",
+    "event_person": "牟奶奶",
+    "event_time": "1950年代末至1960年代初",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省合肥市",
+    "event_action": "参加学校歌咏比赛",
+    "event_summary": "牟奶奶因喜欢唱歌，曾参加学校组织的歌咏比赛，演唱《洪湖赤卫队》《红霞》等当时流行曲目。",
+    "event_link_narrative": [
+      "n_005_0004"
+    ],
+    "event_link_entity": "e_005_003",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_005",
+    "event_person": "牟奶奶",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省合肥市合肥二中",
+    "event_action": "升入高中就读 / 开始学习俄语",
+    "event_summary": "1959年，牟奶奶升入合肥二中读高中。；1959年起，牟奶奶在合肥二中读高中期间开始学习俄语。",
+    "event_link_narrative": [
+      "n_005_0005"
+    ],
+    "event_link_entity": "e_005_004",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_006",
+    "event_person": "牟奶奶",
+    "event_time": "1963年",
+    "event_time_step": "-220924800",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "考入大学",
+    "event_summary": "1963年，牟奶奶通过高考考入安徽医科大学，成为兄弟姐妹中唯一上大学的人。",
+    "event_link_narrative": [
+      "n_005_0006"
+    ],
+    "event_link_entity": "e_005_005",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_007",
+    "event_person": "牟奶奶",
+    "event_time": "1963年",
+    "event_time_step": "-220924800",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "在大学学习医学基础课",
+    "event_summary": "1963年入学后前两年，牟奶奶在安徽医科大学学习生物、物理、数学、生理、生化、解剖及病理、寄生虫、微生物等医学基础课程。",
+    "event_link_narrative": [
+      "n_005_0007"
+    ],
+    "event_link_entity": "e_005_005",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_008",
+    "event_person": "牟奶奶",
+    "event_time": "1965年",
+    "event_time_step": "-157766400",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "开始学习临床课程",
+    "event_summary": "约1965年起，牟奶奶在安徽医科大学从三年级开始接触内科、外科、妇科、儿科及放射、心电图等临床课程。",
+    "event_link_narrative": [
+      "n_005_0008"
+    ],
+    "event_link_entity": "e_005_005",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_009",
+    "event_person": "牟奶奶",
+    "event_time": "1966年",
+    "event_time_step": "-126230400",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "求学中遭遇学校停课",
+    "event_summary": "1966年文化大革命爆发后，牟奶奶所在学校几乎停课，正常学习受到严重影响。",
+    "event_link_narrative": [
+      "n_005_0009"
+    ],
+    "event_link_entity": "e_005_005",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_010",
+    "event_person": "牟奶奶",
+    "event_time": "1968年",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省合肥市安徽医科大学",
+    "event_action": "从医学院毕业",
+    "event_summary": "1968年，牟奶奶从安徽医科大学毕业，当届没有正式毕业考试。",
+    "event_link_narrative": [
+      "n_005_0010"
+    ],
+    "event_link_entity": "e_005_005",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_011",
+    "event_person": "牟奶奶",
+    "event_time": "1968年",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "被分配到乡村医院工作 / 开始从事妇产科医生工作",
+    "event_summary": "1968年毕业后，牟奶奶被分配到安徽省六安市金寨县的乡村医院工作。；1968年到金寨县乡村医院报到后，牟奶奶开始了自己的妇产科医生生涯。",
+    "event_link_narrative": [
+      "n_005_0011"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_012",
+    "event_person": "牟奶奶",
+    "event_time": "1968年",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "在农村医院接诊危重产妇",
+    "event_summary": "在金寨县农村医院从事妇产科工作期间，牟奶奶常接诊被抬进医院、情况危重的产妇。",
+    "event_link_narrative": [
+      "n_005_0012"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_013",
+    "event_person": "牟奶奶",
+    "event_time": "1968年前后",
+    "event_time_step": "-63158400",
+    "event_location": "大伯哥所在医院",
+    "event_action": "在大伯哥处进修妇产科一年 / 从事妇产科医生",
+    "event_summary": "牟奶奶受大伯哥影响，在其指导下进修妇产科一年。；牟奶奶做妇产科很大程度上受大伯哥影响，并曾在他那里进修一年。",
+    "event_link_narrative": [
+      "n_005_0013"
+    ],
+    "event_link_entity": "e_005_007",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_014",
+    "event_person": "牟奶奶",
+    "event_time": "1968年",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "在祠堂改造的医院艰苦行医",
+    "event_summary": "1968年在安徽省六安市金寨县，牟奶奶居住于改造的祠堂中，医院也设在祠堂里，在交通和物资都极为困难的条件下坚持行医。",
+    "event_link_narrative": [
+      "n_005_0014"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_015",
+    "event_person": "牟奶奶",
+    "event_time": "1976年",
+    "event_time_step": "189302400",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "结束在金寨的妇产科工作",
+    "event_summary": "到1976年，牟奶奶结束了在安徽省六安市金寨县长达8年的妇产科工作。",
+    "event_link_narrative": [
+      "n_005_0014"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_016",
+    "event_person": "牟奶奶",
+    "event_time": "1968年-1976年",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "夜间打手电独自完成手术和术后处理",
+    "event_summary": "牟奶奶曾在没有麻醉师和护士的条件下，夜间打着手电筒独自完成术前准备、手术和换药。",
+    "event_link_narrative": [
+      "n_005_0015"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_017",
+    "event_person": "牟奶奶",
+    "event_time": "1971年",
+    "event_time_step": "31536000",
+    "event_location": "安徽省六安市金寨县",
+    "event_action": "首次开展计划生育下乡放环工作",
+    "event_summary": "1971年，牟奶奶首次开展计划生育工作，在怀孕期间仍下乡为农村妇女实施放环。",
+    "event_link_narrative": [
+      "n_005_0016"
+    ],
+    "event_link_entity": "e_005_006",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_018",
+    "event_person": "牟奶奶",
+    "event_time": "1976年",
+    "event_time_step": "189302400",
+    "event_location": "安徽省池州市池州地区医院",
+    "event_action": "调到池州地区医院继续做妇产科",
+    "event_summary": "1976年，牟奶奶调到池州地区医院，继续从事妇产科工作。",
+    "event_link_narrative": [
+      "n_005_0017"
+    ],
+    "event_link_entity": "e_005_008",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_019",
+    "event_person": "牟奶奶",
+    "event_time": "1987年-1990年",
+    "event_time_step": "536457600",
+    "event_location": "安徽省合肥市合肥第二人民医院",
+    "event_action": "调到合肥第二人民医院工作 / 晋升为主任医生并任行政副科主任",
+    "event_summary": "1987年，牟奶奶调到合肥第二人民医院，继续从事妇产科相关医疗工作。；约1990年，牟奶奶在合肥第二人民医院正式晋升为主任医生，并担任行政副科主任。",
+    "event_link_narrative": [
+      "n_005_0019"
+    ],
+    "event_link_entity": "e_005_009",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_020",
+    "event_person": "牟奶奶",
+    "event_time": "1983年",
+    "event_time_step": "410227200",
+    "event_location": "安徽省合肥市安徽医科大学附属医院",
+    "event_action": "到安徽医科大学附属医院进修一年",
+    "event_summary": "1983年，牟奶奶到安徽医科大学附属医院进行为期一年的妇产科进修，提升了临床能力。",
+    "event_link_narrative": [
+      "n_005_0018"
+    ],
+    "event_link_entity": "e_005_007",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_021",
+    "event_person": "牟奶奶",
+    "event_time": "1968年起",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省六安市金寨县、安徽省池州市、安徽省合肥市",
+    "event_action": "长期从事妇产科医疗工作",
+    "event_summary": "牟奶奶一生都在从事妇产科相关医疗工作，负责接生、妇科肿瘤诊治和内分泌疾病处理。",
+    "event_link_narrative": [
+      "n_005_0021"
+    ],
+    "event_link_entity": "e_005_008",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_022",
+    "event_person": "牟奶奶",
+    "event_time": "1968年起",
+    "event_time_step": "-63158400",
+    "event_location": "安徽省内妇产科工作医院",
+    "event_action": "整夜连续做六台手术",
+    "event_summary": "牟奶奶曾在一次夜班中从傍晚六点忙到早上九点，整夜连续完成六台手术。",
+    "event_link_narrative": [
+      "n_005_0021"
+    ],
+    "event_link_entity": "e_005_008",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_023",
+    "event_person": "牟奶奶",
+    "event_time": "1950年代",
+    "event_time_step": "-631152000",
+    "event_location": "安徽省合肥市",
+    "event_action": "喜欢唱歌",
+    "event_summary": "牟奶奶从小就喜欢唱歌。",
+    "event_link_narrative": [
+      "n_005_0024"
+    ],
+    "event_link_entity": "e_005_003",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_024",
+    "event_person": "牟奶奶",
+    "event_time": "1950年代末至1960年代初",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省合肥市",
+    "event_action": "参加文艺晚会唱歌",
+    "event_summary": "牟奶奶曾参加学校组织的文艺晚会并上台唱歌。",
+    "event_link_narrative": [
+      "n_005_0023"
+    ],
+    "event_link_entity": "e_005_003",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_025",
+    "event_person": "牟奶奶",
+    "event_time": "2004年-2010年前后",
+    "event_time_step": "1072915200",
+    "event_location": "安徽省合肥市包河公园",
+    "event_action": "参加唱歌团体",
+    "event_summary": "退休后，牟奶奶参加了包河公园的唱歌团体。",
+    "event_link_narrative": [
+      "n_005_0024"
+    ],
+    "event_link_entity": "e_005_003",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_026",
+    "event_person": "牟奶奶",
+    "event_time": "2010年前后",
+    "event_time_step": "1262304000",
+    "event_location": "安徽省合肥市包河公园",
+    "event_action": "停止参加唱歌团体",
+    "event_summary": "约2010年前后，牟奶奶因腿脚不便和老年性关节炎，不再去包河公园参加唱歌团体。",
+    "event_link_narrative": [
+      "n_005_0024"
+    ],
+    "event_link_entity": "e_005_003",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_027",
+    "event_person": "牟奶奶",
+    "event_time": "2010年前后",
+    "event_time_step": "1262304000",
+    "event_location": "安徽省合肥市",
+    "event_action": "患老年性关节炎并出现腿脚不便",
+    "event_summary": "约2010年前后，牟奶奶出现老年性关节炎和腿脚不便，影响了外出唱歌活动。",
+    "event_link_narrative": [
+      "n_005_0024"
+    ],
+    "event_link_entity": "e_005_010",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_028",
+    "event_person": "牟奶奶",
+    "event_time": "2004年后",
+    "event_time_step": "1072915200",
+    "event_location": "安徽省合肥市",
+    "event_action": "退休后阅读政治和历史书籍",
+    "event_summary": "牟奶奶退休后持续阅读政治和历史类书籍，如《蒋介石传》等。",
+    "event_link_narrative": [
+      "n_005_0029"
+    ],
+    "event_link_entity": "e_005_011",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_029",
+    "event_person": "牟奶奶",
+    "event_time": "2004年后",
+    "event_time_step": "1072915200",
+    "event_location": "安徽省合肥市",
+    "event_action": "在喜马拉雅听专家讲座",
+    "event_summary": "牟奶奶因眼睛不好，改为在喜马拉雅上听专家讲座。",
+    "event_link_narrative": [
+      "n_005_0029"
+    ],
+    "event_link_entity": "e_005_011",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_030",
+    "event_person": "牟奶奶",
+    "event_time": "2004年后",
+    "event_time_step": "1072915200",
+    "event_location": "安徽省合肥市",
+    "event_action": "思考社会问题",
+    "event_summary": "牟奶奶不关注家长里短，更喜欢思考社会问题。",
+    "event_link_narrative": [
+      "n_005_0030"
+    ],
+    "event_link_entity": "e_005_011",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_031",
+    "event_person": "牟奶奶",
+    "event_time": "1990年代末",
+    "event_time_step": "883612800",
+    "event_location": "安徽省合肥市卫生学校",
+    "event_action": "受邀讲授妇产科临床经验",
+    "event_summary": "1990年代末，牟奶奶受卫生学校邀请担任讲课老师，讲授妇产科临床经验。",
+    "event_link_narrative": [
+      "n_005_0031"
+    ],
+    "event_link_entity": "e_005_009",
+    "elder_id": "005"
+  },
+  {
+    "event_id": "ev_005_032",
+    "event_person": "牟奶奶",
+    "event_time": "1990年代末",
+    "event_time_step": "883612800",
+    "event_location": "安徽省合肥市合肥第二人民医院",
+    "event_action": "凭技术晋升到正高级",
+    "event_summary": "牟奶奶凭借手术、病例和技术积累，逐步晋升到了正高级。",
+    "event_link_narrative": [
+      "n_005_0031"
+    ],
+    "event_link_entity": "e_005_009",
+    "elder_id": "005"
+  }
+]

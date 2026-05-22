@@ -1,0 +1,632 @@
+[
+  {
+    "event_id": "ev_001_002",
+    "event_person": "汪爷爷",
+    "event_time": "1949年",
+    "event_time_step": "-631152000",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "上祠堂小学",
+    "event_summary": "汪爷爷六岁在祠堂改的小学上学，从一年级上到四年级。",
+    "event_link_narrative": [
+      "n_001_0004"
+    ],
+    "event_link_entity": "e_001_002",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_004",
+    "event_person": "汪爷爷",
+    "event_time": "1953年",
+    "event_time_step": "-506505600",
+    "event_location": "北徐村",
+    "event_action": "读五年级六年级",
+    "event_summary": "1953年，汪爷爷转到北徐村的忠英小学继续完成小学高年级学习。",
+    "event_link_narrative": [
+      "n_001_0006"
+    ],
+    "event_link_entity": "e_001_002",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_007",
+    "event_person": "汪爷爷",
+    "event_time": "1957年",
+    "event_time_step": "-409968000",
+    "event_location": "安徽省合肥市义城镇",
+    "event_action": "上初中",
+    "event_summary": "1957年，汪爷爷在安徽农学院职业技术中学上了初中。",
+    "event_link_narrative": [
+      "n_001_0008"
+    ],
+    "event_link_entity": "e_001_006",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_009",
+    "event_person": "汪爷爷",
+    "event_time": "1959年",
+    "event_time_step": "-329804800",
+    "event_location": "安徽省合肥市义城镇",
+    "event_action": "学校停办",
+    "event_summary": "汪爷爷从初中念到快高一的时候，忽然学校因为没钱了，停办了。",
+    "event_link_narrative": [
+      "n_001_0010"
+    ],
+    "event_link_entity": "e_001_006",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_010",
+    "event_person": "汪爷爷",
+    "event_time": "1958年",
+    "event_time_step": "-339804800",
+    "event_location": "安徽省合肥市义城镇",
+    "event_action": "去安徽医学院附属卫校学医",
+    "event_summary": "汪爷爷在上初中的一个学期，被选派到安徽医学院附属卫校学医，但卫校只办了半年就停办了。",
+    "event_link_narrative": [
+      "n_001_0011"
+    ],
+    "event_link_entity": "e_001_008",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_011",
+    "event_person": "汪爷爷",
+    "event_time": "1960年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "担任食堂会计",
+    "event_summary": "汪爷爷被安排在一个食堂当会计，因为他识字。",
+    "event_link_narrative": [
+      "n_001_0013"
+    ],
+    "event_link_entity": "e_001_010",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_012",
+    "event_person": "汪爷爷",
+    "event_time": "1960年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "收饭票",
+    "event_summary": "汪爷爷因为识字被安排去收饭票。",
+    "event_link_narrative": [
+      "n_001_0013"
+    ],
+    "event_link_entity": "e_001_010",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_013",
+    "event_person": "汪爷爷",
+    "event_time": "1962年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "食堂解散",
+    "event_summary": "62年食堂解散之前，汪爷爷一直在食堂工作。",
+    "event_link_narrative": [
+      "n_001_0014"
+    ],
+    "event_link_entity": "e_001_010",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_014",
+    "event_person": "汪爷爷",
+    "event_time": "1962年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "种田",
+    "event_summary": "那时候农村以生产队为单位分田，汪爷爷就开始种田。",
+    "event_link_narrative": [
+      "n_001_0015"
+    ],
+    "event_link_entity": "e_001_014",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_015",
+    "event_person": "汪爷爷",
+    "event_time": "1964年",
+    "event_time_step": "-189345600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "自己翻田",
+    "event_summary": "1964年，因为队上的老牛死了，汪爷爷他们只能自己翻田，把犁背在背上，那时候他们才十八九岁，特别辛苦。",
+    "event_link_narrative": [
+      "n_001_0016"
+    ],
+    "event_link_entity": "e_001_014",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_016",
+    "event_person": "汪爷爷",
+    "event_time": "1968年",
+    "event_time_step": "-89345600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "收帐",
+    "event_summary": "68年的时候，汪爷爷有时要去外面去收帐，碰到荒年很难收到",
+    "event_link_narrative": [
+      "n_001_0022"
+    ],
+    "event_link_entity": "e_001_021",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_017",
+    "event_person": "汪爷爷",
+    "event_time": "1960年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省合肥市坝上街",
+    "event_action": "听讲《三国演义》《薛仁贵征东》《薛平贵征西》",
+    "event_summary": "汪爷爷在上世纪六十年代初，经常去合肥市坝上街的小书园听讲《三国演义》《薛仁贵征东》《薛平贵征西》，文化大革命后书场停办。",
+    "event_link_narrative": [
+      "n_001_0018"
+    ],
+    "event_link_entity": "e_001_016",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_018",
+    "event_person": "汪爷爷",
+    "event_time": "1964年",
+    "event_time_step": "-189345600",
+    "event_location": "安徽省合肥市",
+    "event_action": "学习拉二胡",
+    "event_summary": "1964至1965年夏天，汪爷爷在外面乘凉时结识安徽农学院学生吴元佳，并通过他的帮助学习拉二胡和笛子伴奏",
+    "event_link_narrative": [
+      "n_001_0019"
+    ],
+    "event_link_entity": "e_001_020",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_019",
+    "event_person": "汪爷爷",
+    "event_time": "1964年",
+    "event_time_step": "-189345600",
+    "event_location": "安徽省合肥市",
+    "event_action": "用笛子伴奏",
+    "event_summary": "1964至1965年夏天，汪爷爷与吴元佳一起演奏，汪爷爷用笛子为吴元佳的二胡伴奏",
+    "event_link_narrative": [
+      "n_001_0019"
+    ],
+    "event_link_entity": "e_001_018",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_020",
+    "event_person": "汪爷爷",
+    "event_time": "1965年",
+    "event_time_step": "-157766400",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "参加宣传队比赛并获得四个大队中第二名",
+    "event_summary": "汪爷爷加入宣传队，凭借《一条大河》和《挂新城》在四个大队中获得了第二名。",
+    "event_link_narrative": [
+      "n_001_0020"
+    ],
+    "event_link_entity": "e_001_019",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_021",
+    "event_person": "汪爷爷",
+    "event_time": "1971年",
+    "event_time_step": "315532800",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "掀翻儿子的摇篮",
+    "event_summary": "汪爷爷在拉二胡的同时，不小心将儿子的摇篮掀翻，妻子因此将二胡摔坏。这件事成为家中的笑谈。",
+    "event_link_narrative": [
+      "n_001_0021"
+    ],
+    "event_link_entity": "e_001_020",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_008",
+    "event_person": "汪爷爷",
+    "event_time": "1968年",
+    "event_time_step": "127008000",
+    "event_location": "安徽省合肥市义城镇",
+    "event_action": "学瓦工",
+    "event_summary": "汪爷爷在68年的时候去镇子上同学的叔叔的建筑公司去学瓦工搞建筑",
+    "event_link_narrative": [
+      "n_001_0023"
+    ],
+    "event_link_entity": "e_001_024",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_022",
+    "event_person": "汪爷爷",
+    "event_time": "1974年",
+    "event_time_step": "127008000",
+    "event_location": "蚌埠铁路局",
+    "event_action": "帮铁路工人盖宿舍",
+    "event_summary": "1974年，汪爷爷由于对瓦工熟悉，被选为基金队负责人，前往蚌埠铁路局为铁路工人建造宿舍。",
+    "event_link_narrative": [
+      "n_001_0024"
+    ],
+    "event_link_entity": "e_001_024",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_023",
+    "event_person": "汪爷爷",
+    "event_time": "1979年",
+    "event_time_step": "315532800",
+    "event_location": "淮南",
+    "event_action": "建设工人宿舍",
+    "event_summary": "1979年汪爷爷去了淮南煤矿，在蔡家港、谢家集参与建设工人宿舍，并在淮南建了一个四层的办公楼。",
+    "event_link_narrative": [
+      "n_001_0025"
+    ],
+    "event_link_entity": "e_001_024",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_024",
+    "event_person": "汪爷爷",
+    "event_time": "1979年",
+    "event_time_step": "315532800",
+    "event_location": "淮南",
+    "event_action": "带徒弟",
+    "event_summary": "1979年的时候汪爷爷还带了一个刚刚高中毕业的徒弟，跟着汪爷爷在淮南学了两年",
+    "event_link_narrative": [
+      "n_001_0026"
+    ],
+    "event_link_entity": "e_001_024",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_025",
+    "event_person": "汪爷爷",
+    "event_time": "1980年",
+    "event_time_step": "335532800",
+    "event_location": "淮北",
+    "event_action": "盖办公楼",
+    "event_summary": "1980年的时候,汪爷爷去淮北的古井酒厂盖1栋办公楼，干了两三年",
+    "event_link_narrative": [
+      "n_001_0027"
+    ],
+    "event_link_entity": "e_001_024",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_026",
+    "event_person": "汪爷爷",
+    "event_time": "1984年",
+    "event_time_step": "441763200",
+    "event_location": "北门双岗",
+    "event_action": "承包电容器厂宿舍楼",
+    "event_summary": "1984年，汪爷爷的一个朋友告诉他在北门双岗那边要建一个电容器厂宿舍楼，承包给了汪爷爷，他因此成为了大老板。",
+    "event_link_narrative": [
+      "n_001_0029"
+    ],
+    "event_link_entity": "e_001_028",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_027",
+    "event_person": "汪爷爷",
+    "event_time": "1990年",
+    "event_time_step": "631152000",
+    "event_location": "合肥市",
+    "event_action": "建设郊区医院病房",
+    "event_summary": "完成电容器厂工程后，汪爷爷参与了郊区医院病房的建设。",
+    "event_link_narrative": [
+      "n_001_0030"
+    ],
+    "event_link_entity": "e_001_028",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_028",
+    "event_person": "汪爷爷",
+    "event_time": "1990年",
+    "event_time_step": "631152000",
+    "event_location": "合肥市",
+    "event_action": "歇业",
+    "event_summary": "汪爷爷的公司到了九零年之后就歇业了，之后就没有接工程了。",
+    "event_link_narrative": [
+      "n_001_0031"
+    ],
+    "event_link_entity": "e_001_028",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_029",
+    "event_person": "汪爷爷",
+    "event_time": "1990年",
+    "event_time_step": "631152000",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "打牌",
+    "event_summary": "汪爷爷在家休息了一年多，经常打牌和打麻将。",
+    "event_link_narrative": [
+      "n_001_0032"
+    ],
+    "event_link_entity": "e_001_034",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_030",
+    "event_person": "汪爷爷",
+    "event_time": "1990年",
+    "event_time_step": "631152000",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "打麻将",
+    "event_summary": "汪爷爷在家休息了一年多，经常打牌和打麻将。",
+    "event_link_narrative": [
+      "n_001_0032"
+    ],
+    "event_link_entity": "e_001_035",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_031",
+    "event_person": "汪爷爷",
+    "event_time": "1991年",
+    "event_time_step": "662688000",
+    "event_location": "合肥市",
+    "event_action": "盖污水处理站",
+    "event_summary": "汪爷爷在徒弟的指导下，于1991年开始为朋友的公司盖污水处理站，一直盖到九三年。",
+    "event_link_narrative": [
+      "n_001_0033"
+    ],
+    "event_link_entity": "e_001_036",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_032",
+    "event_person": "汪爷爷",
+    "event_time": "1994年",
+    "event_time_step": "815148800",
+    "event_location": "姚公庙",
+    "event_action": "盖楼",
+    "event_summary": "九四年的时候，姚公庙那边有村子拆迁，要盖四栋楼，直到1998年下半年项目结束。",
+    "event_link_narrative": [
+      "n_001_0034"
+    ],
+    "event_link_entity": "e_001_036",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_033",
+    "event_person": "汪爷爷",
+    "event_time": "1999年",
+    "event_time_step": "915148800",
+    "event_location": "安徽省合肥市",
+    "event_action": "报名参加工程师培训",
+    "event_summary": "1999年，汪爷爷在朋友建议下，报名参加工程师培训，边施工边上课，补习钢筋受力、抗震和结构力学。",
+    "event_link_narrative": [
+      "n_001_0037"
+    ],
+    "event_link_entity": "e_001_038",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_034",
+    "event_person": "汪爷爷",
+    "event_time": "2000年",
+    "event_time_step": "946684800",
+    "event_location": "安徽省",
+    "event_action": "通过考试",
+    "event_summary": "汪爷爷通过三部门联合考试，获得了工程师证书。",
+    "event_link_narrative": [
+      "n_001_0038"
+    ],
+    "event_link_entity": "e_001_039",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_035",
+    "event_person": "汪爷爷",
+    "event_time": "2003年",
+    "event_time_step": "946684800",
+    "event_location": "安徽省合肥市",
+    "event_action": "改做室内监理",
+    "event_summary": "汪爷爷在拿到证书后改行成为室内监理，承担现场检查施工质量和审核关键节点的职责。",
+    "event_link_narrative": [
+      "n_001_0039"
+    ],
+    "event_link_entity": "e_001_045",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_038",
+    "event_person": "汪爷爷",
+    "event_time": "2003年",
+    "event_time_step": "946684800",
+    "event_location": "安徽省合肥市",
+    "event_action": "进入南巡监理工程部",
+    "event_summary": "汪爷爷的徒弟建议他做监督管理岗，南巡监理工程部和公司正好缺人。",
+    "event_link_narrative": [
+      "n_001_0042"
+    ],
+    "event_link_entity": "e_001_045",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_039",
+    "event_person": "汪爷爷",
+    "event_time": "2003年",
+    "event_time_step": "946684800",
+    "event_location": "安徽省合肥市",
+    "event_action": "监理工地",
+    "event_summary": "送变电公司要盖八栋楼，汪爷爷去监理工地",
+    "event_link_narrative": [
+      "n_001_0043"
+    ],
+    "event_link_entity": "e_001_045",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_040",
+    "event_person": "汪爷爷",
+    "event_time": "2013年",
+    "event_time_step": "1056931200",
+    "event_location": "安徽省合肥市",
+    "event_action": "退休",
+    "event_summary": "从2003年起，汪爷爷担任监理，至2013年退休。",
+    "event_link_narrative": [
+      "n_001_0044"
+    ],
+    "event_link_entity": "e_001_045",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_041",
+    "event_person": "汪爷爷",
+    "event_time": "1985年",
+    "event_time_step": "473385600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "用报纸练毛笔字",
+    "event_summary": "汪爷爷以前在家中练习毛笔字，经常誊写《沁园春·雪》。",
+    "event_link_narrative": [
+      "n_001_0046"
+    ],
+    "event_link_entity": "e_001_046",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_042",
+    "event_person": "汪爷爷",
+    "event_time": "孙子出生时",
+    "event_time_step": "473385600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "为孙子出生写诗",
+    "event_summary": "汪爷爷在孙子出生时写下一首诗“春回大地暖，阳照万物生，百花齐开放，枯草也泛青”。",
+    "event_link_narrative": [
+      "n_001_0048"
+    ],
+    "event_link_entity": "e_001_047",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_044",
+    "event_person": "汪爷爷",
+    "event_time": "孙子考上硕博时",
+    "event_time_step": "1473385600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "为孙子考上硕博连读写诗",
+    "event_summary": "汪爷爷在孙子考上硕博连读后写下一首诗“春阳春雷一生惊天地，阳光普照生紫气，清和群招读研博，他年成名人更乐。”。",
+    "event_link_narrative": [
+      "n_001_0049"
+    ],
+    "event_link_entity": "e_001_047",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_047",
+    "event_person": "汪爷爷",
+    "event_time": "2023年",
+    "event_time_step": "1673385600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "为全家写诗",
+    "event_summary": "2023 年国庆全家去上海，又写“恰逢盛世日子好，每天生活乐逍遥；国庆于是上海见，笃新欢喜笑开颜”。",
+    "event_link_narrative": [
+      "n_001_0050"
+    ],
+    "event_link_entity": "e_001_047",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_043",
+    "event_person": "汪爷爷",
+    "event_time": "2024年",
+    "event_time_step": "1723392000",
+    "event_location": "安徽省合肥市",
+    "event_action": "参加象棋比赛",
+    "event_summary": "2024年，汪爷爷参加了一场象棋比赛并获得获奖证书。",
+    "event_link_narrative": [
+      "n_001_0051"
+    ],
+    "event_link_entity": "e_001_050",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_045",
+    "event_person": "汪爷爷",
+    "event_time": "2024年前后",
+    "event_time_step": "1704067200",
+    "event_location": "安徽省合肥市",
+    "event_action": "下象棋",
+    "event_summary": "汪爷爷后来没人陪打球，就改下象棋。",
+    "event_link_narrative": [
+      "n_001_0051"
+    ],
+    "event_link_entity": "e_001_049",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_046",
+    "event_person": "汪爷爷",
+    "event_time": "2022年",
+    "event_time_step": "1640995200",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "得到球拍",
+    "event_summary": "汪爷爷的孙子在2022年买了红双喜球拍送给他。",
+    "event_link_narrative": [
+      "n_001_0052"
+    ],
+    "event_link_entity": "e_001_048",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_048",
+    "event_person": "汪爷爷",
+    "event_time": "2000年",
+    "event_time_step": "731456000",
+    "event_location": "天堂寨",
+    "event_action": "爬山",
+    "event_summary": "汪爷爷六十多岁时去天堂寨玩，爬到了山顶。",
+    "event_link_narrative": [
+      "n_001_0054"
+    ],
+    "event_link_entity": "e_001_053",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_049",
+    "event_person": "汪爷爷",
+    "event_time": "2024",
+    "event_time_step": "1731456000",
+    "event_location": "安徽省立医院",
+    "event_action": "被诊断为脑血管阻塞",
+    "event_summary": "去年汪爷爷在洗澡后跌倒，送到医院检查，磁共振显示汪爷爷左侧脑血管阻塞。",
+    "event_link_narrative": [
+      "n_001_0055"
+    ],
+    "event_link_entity": "e_001_054",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_050",
+    "event_person": "汪爷爷",
+    "event_time": "2024",
+    "event_time_step": "1731456000",
+    "event_location": "三孝口",
+    "event_action": "跌倒",
+    "event_summary": "汪爷爷因为脑梗跌倒前一天还在三孝口打乒乓球。",
+    "event_link_narrative": [
+      "n_001_0056"
+    ],
+    "event_link_entity": "e_001_054",
+    "elder_id": "001"
+  },
+  {
+    "event_id": "ev_001_052",
+    "event_person": "汪爷爷",
+    "event_time": "2024年",
+    "event_time_step": "1731369600",
+    "event_location": "安徽省合肥市义城镇汪潦村",
+    "event_action": "搬回老家",
+    "event_summary": "由于脑梗，汪爷爷搬回了老家。",
+    "event_link_narrative": [
+      "n_001_0057"
+    ],
+    "event_link_entity": "e_001_054",
+    "elder_id": "001"
+  }
+]

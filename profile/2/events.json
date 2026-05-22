@@ -1,0 +1,492 @@
+[
+  {
+    "event_id": "ev_002_001",
+    "event_person": "陶奶奶",
+    "event_time": "1950年",
+    "event_time_step": "-631152000",
+    "event_location": "寿县",
+    "event_action": "上学",
+    "event_summary": "陶奶奶上学上的早，5周岁就上学了，就在寿县上了大概两年学",
+    "event_link_narrative": [
+      "n_002_0001"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_002",
+    "event_person": "陶奶奶",
+    "event_time": "1950年",
+    "event_time_step": "-631152000",
+    "event_location": "瓦埠湖边陶家祠堂",
+    "event_action": "上小学",
+    "event_summary": "1950年，陶奶奶在瓦埠湖边的陶家祠堂开始上小学。",
+    "event_link_narrative": [
+      "n_002_0002"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_003",
+    "event_person": "陶奶奶",
+    "event_time": "1950年",
+    "event_time_step": "-631152000",
+    "event_location": "陶店",
+    "event_action": "转学",
+    "event_summary": "1950年，由于大水，陶奶奶的学校从瓦埠湖边的陶家祠堂转移到陶店。",
+    "event_link_narrative": [
+      "n_002_0002"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_004",
+    "event_person": "陶奶奶",
+    "event_time": "约1954年",
+    "event_time_step": "-504921600",
+    "event_location": "江黄镇",
+    "event_action": "上高小",
+    "event_summary": "陶奶奶到江黄镇上两年高小。",
+    "event_link_narrative": [
+      "n_002_0003"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_005",
+    "event_person": "陶奶奶",
+    "event_time": "约1956年",
+    "event_time_step": "-441763200",
+    "event_location": "陶店",
+    "event_action": "转回陶店小学毕业",
+    "event_summary": "陶奶奶最后一学期转回陶店小学并毕业。",
+    "event_link_narrative": [
+      "n_002_0003"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_006",
+    "event_person": "陶奶奶",
+    "event_time": "1962年",
+    "event_time_step": "-252288000",
+    "event_location": "寿县",
+    "event_action": "没考上大学",
+    "event_summary": "62年的时候陶奶奶高中毕业但因为招生减少没能考上大学。",
+    "event_link_narrative": [
+      "n_002_0006"
+    ],
+    "event_link_entity": "e_002_006",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_007",
+    "event_person": "陶奶奶",
+    "event_time": "1956年",
+    "event_time_step": "-418176000",
+    "event_location": "寿县",
+    "event_action": "考上寿县三中",
+    "event_summary": "1956年，陶奶奶考上了寿县三中，全寿县只有四个初中，竞争激烈。",
+    "event_link_narrative": [
+      "n_002_0004"
+    ],
+    "event_link_entity": "e_002_005",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_008",
+    "event_person": "陶奶奶",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "寿县",
+    "event_action": "考上寿县一中",
+    "event_summary": "1959年，陶奶奶考上了寿县一中，开始了她的高中生活。",
+    "event_link_narrative": [
+      "n_002_0005"
+    ],
+    "event_link_entity": "e_002_006",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_009",
+    "event_person": "陶奶奶",
+    "event_time": "1954年",
+    "event_time_step": "-504921600",
+    "event_location": "寿县",
+    "event_action": "入少先队",
+    "event_summary": "陶奶奶是在小学入的少先队，那个时候心里面高兴得很。",
+    "event_link_narrative": [
+      "n_002_0009"
+    ],
+    "event_link_entity": "e_002_009",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_012",
+    "event_person": "陶奶奶",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "寿县",
+    "event_action": "帮农民收割粮食",
+    "event_summary": "陶奶奶在初中的时候，一边学习一边劳动，下生产队帮农民收割粮食。",
+    "event_link_narrative": [
+      "n_002_0012"
+    ],
+    "event_link_entity": "e_002_005",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_013",
+    "event_person": "陶奶奶",
+    "event_time": "1959年",
+    "event_time_step": "-347155200",
+    "event_location": "寿县",
+    "event_action": "给人家抬粮食",
+    "event_summary": "陶奶奶十几岁的时候晚上和同伴一起给人家抬粮食到稻场，有时累得边走边睡着。",
+    "event_link_narrative": [
+      "n_002_0012"
+    ],
+    "event_link_entity": "e_002_005",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_015",
+    "event_person": "陶奶奶",
+    "event_time": "1962年",
+    "event_time_step": "-252288000",
+    "event_location": "寿县",
+    "event_action": "教民办小学",
+    "event_summary": "陶奶奶高中毕业后没考上大学，而是在农村教民办小学大约两年多。",
+    "event_link_narrative": [
+      "n_002_0015"
+    ],
+    "event_link_entity": "e_002_015",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_016",
+    "event_person": "陶奶奶",
+    "event_time": "约1965年",
+    "event_time_step": "-157766400",
+    "event_location": "新疆",
+    "event_action": "参与挖渠引水",
+    "event_summary": "陶奶奶在新疆工作时参与了挖渠引水，以解决当地缺水的问题。",
+    "event_link_narrative": [
+      "n_002_0025"
+    ],
+    "event_link_entity": "e_002_017",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_017",
+    "event_person": "陶奶奶",
+    "event_time": "1966年",
+    "event_time_step": "-125798400",
+    "event_location": "安徽省",
+    "event_action": "代课",
+    "event_summary": "在新疆，陶奶奶由于高中毕业的学历，被请去代课几个月，因为某位数学老师请假回家。",
+    "event_link_narrative": [
+      "n_002_0027"
+    ],
+    "event_link_entity": "e_002_019",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_019",
+    "event_person": "陶奶奶",
+    "event_time": "1966年",
+    "event_time_step": "-125798400",
+    "event_location": "安徽省",
+    "event_action": "带数学课",
+    "event_summary": "由于数学老师缺位，陶奶奶临时带数学课一个多月，之后继续带一个学期。",
+    "event_link_narrative": [
+      "n_002_0028"
+    ],
+    "event_link_entity": "e_002_019",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_020",
+    "event_person": "陶奶奶",
+    "event_time": "1967年",
+    "event_time_step": "-946771200",
+    "event_location": "安徽省",
+    "event_action": "改带语文课",
+    "event_summary": "教导主任要求陶奶奶转带语文课，接替了政治部主任女儿的工作，从三年级开始带语文，送了几届走。",
+    "event_link_narrative": [
+      "n_002_0029"
+    ],
+    "event_link_entity": "e_002_019",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_021",
+    "event_person": "陶奶奶",
+    "event_time": "1986年",
+    "event_time_step": "504921600",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "考上成人高考",
+    "event_summary": "1986年陶奶奶参加成人高考，通过考试，进入学校学习。",
+    "event_link_narrative": [
+      "n_002_0030"
+    ],
+    "event_link_entity": "e_002_023",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_022",
+    "event_person": "陶奶奶",
+    "event_time": "1989年",
+    "event_time_step": "599529600",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "完成学业",
+    "event_summary": "1986年至1989年，陶奶奶在学校学习了三年，完成了一系列课程的学业。",
+    "event_link_narrative": [
+      "n_002_0030"
+    ],
+    "event_link_entity": "e_002_023",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_024",
+    "event_person": "陶奶奶",
+    "event_time": "约1956年",
+    "event_time_step": "-418176000",
+    "event_location": "寿县",
+    "event_action": "自己弄剧本，演戏、跳舞、唱歌",
+    "event_summary": "小学快毕业时，陶奶奶和同学们自己创作剧本，进行演戏、跳舞、唱歌的活动。",
+    "event_link_narrative": [
+      "n_002_0037"
+    ],
+    "event_link_entity": "e_002_027",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_025",
+    "event_person": "陶奶奶",
+    "event_time": "约1954年",
+    "event_time_step": "-504921600",
+    "event_location": "寿县",
+    "event_action": "戴红领巾时唱六月花儿香，六月好阳光，唱少先队队歌",
+    "event_summary": "陶奶奶在戴红领巾的时候，唱一些经典歌曲如六月花儿香，六月好阳光和少先队队歌。",
+    "event_link_narrative": [
+      "n_002_0038"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_026",
+    "event_person": "陶奶奶",
+    "event_time": "1950年",
+    "event_time_step": "-631152000",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "背书",
+    "event_summary": "上小学的时候，开始学习语文和数学，那时教育方式不同，陶奶奶记忆特别好，能从头到尾背书。",
+    "event_link_narrative": [
+      "n_002_0041"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_027",
+    "event_person": "陶奶奶",
+    "event_time": "1954年",
+    "event_time_step": "-504576000",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "读四大名著和巴金的著",
+    "event_summary": "陶奶奶在小学五年级的时候，家里有很多书，她阅读了四大名著和巴金的著作。",
+    "event_link_narrative": [
+      "n_002_0042"
+    ],
+    "event_link_entity": "e_002_031",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_028",
+    "event_person": "陶奶奶",
+    "event_time": "1960年",
+    "event_time_step": "-315619200",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "读文学作品",
+    "event_summary": "在小学和初中时，陶奶奶阅读了《钢铁是怎样炼成的》、《卓娅和舒拉》等文学作品，对她的语文成绩有帮助。",
+    "event_link_narrative": [
+      "n_002_0044"
+    ],
+    "event_link_entity": "e_002_031",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_030",
+    "event_person": "陶奶奶",
+    "event_time": "1950年",
+    "event_time_step": "-631152000",
+    "event_location": "寿县",
+    "event_action": "瓦埠湖暴发特大洪水",
+    "event_summary": "1950年夏天瓦埠湖暴发特大洪水，学校祠堂被淹，学生迁到了距离湖约1.5公里的陶店上课。",
+    "event_link_narrative": [
+      "n_002_0045"
+    ],
+    "event_link_entity": "e_002_001",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_031",
+    "event_person": "陶奶奶",
+    "event_time": "1956年",
+    "event_time_step": "-439804800",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "参与舞蹈、合唱与《孔雀东南飞》等小剧表演",
+    "event_summary": "1956年小学至高小阶段，陶奶奶参与了舞蹈、合唱和《孔雀东南飞》等小剧的表演。",
+    "event_link_narrative": [
+      "n_002_0048"
+    ],
+    "event_link_entity": "e_002_027",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_033",
+    "event_person": "陶奶奶",
+    "event_time": "1958年",
+    "event_time_step": "-347155200",
+    "event_location": "安徽省淮南市寿县",
+    "event_action": "饰演护士并在话剧中唱歌",
+    "event_summary": "1958年，陶奶奶在学校自编话剧《向秀丽救火》里饰演护士，并在病房里唱《小燕子穿花衣》。",
+    "event_link_narrative": [
+      "n_002_0050"
+    ],
+    "event_link_entity": "e_002_027",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_038",
+    "event_person": "陶奶奶",
+    "event_time": "1965年",
+    "event_time_step": "-157766400",
+    "event_location": "伊犁州特克斯县",
+    "event_action": "报名加入中国人民解放军新疆生产建设兵团",
+    "event_summary": "1965年，陶奶奶通过报纸报名加入中国人民解放军新疆生产建设兵团，并于同年秋天抵达伊犁州特克斯县78团，开始开荒建房。",
+    "event_link_narrative": [
+      "n_002_0053"
+    ],
+    "event_link_entity": "e_002_047",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_039",
+    "event_person": "陶奶奶",
+    "event_time": "1983年",
+    "event_time_step": "410227200",
+    "event_location": "新疆",
+    "event_action": "学习心理学、教育学、物理化学等课程",
+    "event_summary": "1983年，陶奶奶通过成人高考取得师专的录取，并在高龄近40岁时再次入学，使用北师大四年制教材系统补修心理学、教育学、物理化学等课程。",
+    "event_link_narrative": [
+      "n_002_0055"
+    ],
+    "event_link_entity": "e_002_048",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_040",
+    "event_person": "陶奶奶",
+    "event_time": "1987年",
+    "event_time_step": "536457600",
+    "event_location": "新疆",
+    "event_action": "主持小学实验室建设",
+    "event_summary": "1987年陶奶奶开始主持小学实验室的建设工作。",
+    "event_link_narrative": [
+      "n_002_0056"
+    ],
+    "event_link_entity": "e_002_050",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_041",
+    "event_person": "陶奶奶",
+    "event_time": "1995年",
+    "event_time_step": "788918400",
+    "event_location": "新疆",
+    "event_action": "获实验员证书",
+    "event_summary": "在1995年期间陶奶奶获得了小学实验员证书。",
+    "event_link_narrative": [
+      "n_002_0056"
+    ],
+    "event_link_entity": "e_002_050",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_042",
+    "event_person": "陶奶奶",
+    "event_time": "1980年代",
+    "event_time_step": "788918400",
+    "event_location": "新疆",
+    "event_action": "获得“教材教化积极分子”称号",
+    "event_summary": "在1980年代，陶奶奶多次获得“教材教化积极分子”的称号。",
+    "event_link_narrative": [
+      "n_002_0056"
+    ],
+    "event_link_entity": "e_002_052",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_043",
+    "event_person": "陶奶奶",
+    "event_time": "1980年代",
+    "event_time_step": "788918400",
+    "event_location": "新疆",
+    "event_action": "获得“先进工作者”称号",
+    "event_summary": "陶奶奶在1980年代多次获得“先进工作者”的称号。",
+    "event_link_narrative": [
+      "n_002_0056"
+    ],
+    "event_link_entity": "e_002_053",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_044",
+    "event_person": "陶奶奶",
+    "event_time": "2009年",
+    "event_time_step": "1230768000",
+    "event_location": "峨眉山",
+    "event_action": "游峨眉山晕车",
+    "event_summary": "2009年陶奶奶在游览峨眉山时因山路颠簸而严重晕车，从此放弃攀登五台山，只登过峨眉、九华、普陀三座佛教名山。",
+    "event_link_narrative": [
+      "n_002_0059"
+    ],
+    "event_link_entity": "e_002_061",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_045",
+    "event_person": "陶奶奶",
+    "event_time": "2011年",
+    "event_time_step": "1293840000",
+    "event_location": "合肥",
+    "event_action": "接受大型手术住院",
+    "event_summary": "2011年陶奶奶在合肥接受大型手术住院。",
+    "event_link_narrative": [
+      "n_002_0060"
+    ],
+    "event_link_entity": "e_002_058",
+    "elder_id": "002"
+  },
+  {
+    "event_id": "ev_002_046",
+    "event_person": "陶奶奶",
+    "event_time": "2011年",
+    "event_time_step": "1293840000",
+    "event_location": "合肥",
+    "event_action": "康复后坚持每日快走一万步",
+    "event_summary": "陶奶奶在康复后坚持每日快走一万步。",
+    "event_link_narrative": [
+      "n_002_0061"
+    ],
+    "event_link_entity": "e_002_060",
+    "elder_id": "002"
+  }
+]

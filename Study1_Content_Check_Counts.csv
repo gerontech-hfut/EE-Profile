@@ -1,0 +1,9 @@
+ID,Entities,Events,Wrong_entity,Wrong_event_fact,Wrong_time,Wrong_location,Wrong_person
+O1,25,45,0,1,3,1,0
+O2,18,35,0,0,0,5,0
+O3,22,39,0,0,4,3,0
+O4,24,41,0,0,4,1,0
+O5,11,32,0,0,4,0,0
+O6,21,34,2,0,1,0,0
+O7,16,31,0,0,0,0,0
+O8,19,22,3,0,2,0,0
